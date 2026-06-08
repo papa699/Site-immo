@@ -1,0 +1,6 @@
+{
+  "name": "ImmoVision",
+  "description": "Plateforme immobilière moderne, élégante et responsive pour trouver le bien de vos rêves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
